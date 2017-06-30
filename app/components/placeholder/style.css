@@ -1,0 +1,50 @@
+.couples-photo-placeholder-container{
+  width: 175px;
+  height: 175px;
+  position: relative;
+  cursor: pointer;
+  border: 8px solid #e6ecef;
+  border-radius: 50%;
+  background-image: url("../../images/blue_bird.svg");
+  background-size: 135%;
+  background-repeat: no-repeat;
+  background-position: -23px -24px;
+}
+
+.couples-photo-placeholder-hover {
+  display: none;
+}
+
+.couples-photo-placeholder-container:hover .couples-photo-placeholder-hover {
+  display: block;
+}
+
+.upload-photo-text {
+  font-family: 'tisa sans';
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 29px;
+  margin-left: 35px;
+  letter-spacing: 0.4px;
+  color: #3ea9da;
+}
+
+.camera-icon {
+  background: url("../../images/camera.png");
+  width: 25px;
+  height: 25px;
+  background-size: 25px 25px;
+  margin-top: 18px;
+  margin-left: 67px;
+}
+
+.couples-photo-placeholder {
+  font-family: 'tisa sans';
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  color: #72caf2;
+  margin-top: 4px;
+  margin-left: 32px;
+  width: 96px;
+  text-align: center;
+}
