@@ -20,8 +20,11 @@
   },
   "dependencies": {
     "babel-core": "^6.25.0",
+    "bluebird": "https://registry.npmjs.org/bluebird/-/bluebird-3.4.6.tgz",
+    "cropperjs": "^1.0.0-rc.2",
     "css-loader": "^0.28.4",
     "image-webpack-loader": "^3.3.1",
+    "jquery": "^3.2.1",
     "postcss-loader": "^2.0.6",
     "react": "^15.6.1",
     "react-css-modules": "^4.3.0",
