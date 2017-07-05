@@ -1,0 +1,11 @@
+@media (max-height: 767px) {
+  .cropper {
+    max-height: 416px;
+  }
+}
+
+@media (min-height: 768px) {
+  .cropper {
+    max-height: 516px;
+  }
+}
