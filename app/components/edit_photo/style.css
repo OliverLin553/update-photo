@@ -11,6 +11,8 @@
   -webkit-transform: translate(-50%,-50%)!important;
 }
 
-.modal-block img {
-  max-height: 500px;
+.modal-body {
+  overflow: hidden;
+  margin: 0 10px 0 10px;
+  padding-left: 0;
 }
